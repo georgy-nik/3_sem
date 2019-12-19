@@ -13,7 +13,7 @@ int main()
 {
     char *  array;
     int     i, shmid;
-    char    pathname[] = "TASK3_a.c";
+    char    pathname[] = "solve_task1_1.c";
     key_t   key;
     char mas[100];
 
